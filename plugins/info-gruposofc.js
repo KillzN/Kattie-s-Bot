@@ -19,13 +19,13 @@ ${tradutor.texto1[1]}
 
 4.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 
-> KillzN Store OFC :
+> Kathy Store OFC :
 
 1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 
 2.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/KillzN`},
+    'document': {url: `https://github.com/Kathy`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -34,7 +34,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/KillzND',
+        'mediaUrl': 'https://github.com/KathyD',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
